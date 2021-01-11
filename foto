@@ -1,0 +1,10 @@
+[ { "username":"user1", "nama":"Nama User1", "umur":"21", "foto":"https://darmanto.akakom.ac.id/android/responsi/foto/user1.png" }, 
+{ "username":"user2", "nama":"Nama User2", "umur":"22", "foto":"https://darmanto.akakom.ac.id/android/responsi/foto/user2.png" }, 
+{ "username":"user3", "nama":"Nama User3", "umur":"23", "foto":"https://darmanto.akakom.ac.id/android/responsi/foto/user3.png" }, 
+{ "username":"user4", "nama":"Nama User4", "umur":"24", "foto":"https://darmanto.akakom.ac.id/android/responsi/foto/user4.png" }, 
+{ "username":"user5", "nama":"Nama User5", "umur":"25", "foto":"https://darmanto.akakom.ac.id/android/responsi/foto/user5.png" }, 
+{ "username":"user6", "nama":"Nama User6", "umur":"26", "foto":"https://darmanto.akakom.ac.id/android/responsi/foto/user6.png" }, 
+{ "username":"user7", "nama":"Nama User7", "umur":"27", "foto":"https://darmanto.akakom.ac.id/android/responsi/foto/user7.png" }, 
+{ "username":"user8", "nama":"Nama User8", "umur":"28", "foto":"https://darmanto.akakom.ac.id/android/responsi/foto/user8.png" }, 
+{ "username":"user9", "nama":"Nama User9", "umur":"29", "foto":"https://darmanto.akakom.ac.id/android/responsi/foto/user9.png" }, 
+{ "username":"user10", "nama":"Nama User10", "umur":"30", "foto":"https://darmanto.akakom.ac.id/android/responsi/foto/user10.png" } ]
